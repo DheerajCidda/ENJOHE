@@ -1,58 +1,7 @@
-<html>
-<head>
-<meta charset="UTF-8">
+
 <title>ENJOHE Engineering Jobs In Healthcare</title>
-<style type="text/css">
-</style>
-<link rel="stylesheet" href="sheet.css" type="text/css">
-</head>
 
-<body>
-	
-<div style="border-bottom: 3px;">	
-	<div style="margin-bottom: 10px">
-<span style="padding-left: 15px" ><img src="logo2.png" width="250" height="50" alt=""/> </span>
-<div class="nav">
-	
-    <div class="dropdown">
-  <a id="on-hover" class="dropbtn font1" onmouseover="bigImg()" onmouseout="normalImg()" style="color:black" href="index.html">Home </a>
-  <div class="dropdown-content">
-  </div>
-</div>
-	
-<div class="dropdown">
-  <button class="dropbtn font1">Job Seeker</button>
-  <div class="dropdown-content">
-	  <div class="font1">
-    <a href="search_job.php">Find a Job</a>
-    <a href="submit_info.php">Submit My Qualifications</a>
-	  </div>
-    
-  </div>
-</div>
-	<div class="dropdown">
-  <button class="dropbtn font1">Employer</button>
-  <div class="dropdown-content">
-	   <div class="font1">
-        <a href="register.php">Sign Up | Login</a>
-        <a href="postjob.php">Post Job</a>
-		<a href="find_seekers.php">Find Candidates</a>
-        </div>
-  </div>
-</div>
-
- <div class="dropdown">
-  <a id="on-hover-course" class="dropbtn font1" onmouseover="bigImg1()" onmouseout="normalImg1()" style="color:black" href="short_course.html">Short Courses </a>
-  <div class="dropdown-content">
-  </div>
-</div>
-
-	</div>
-	</div>
-	</div>
-
-
-	
+<img src="logo2.png" width="250" height="50" alt=""/> 
 		
 <div class="font1">
 <div style=" padding-top: 10px;" align="center">
@@ -126,33 +75,5 @@
 </ol>  
     	
 
-</div>
-
-
-
-
-</div>
-	
-    
-</body>
-
-<script>
-function bigImg() {
-  document.getElementById("on-hover").style.color = "white";
-}
-
-function normalImg() {
-  document.getElementById("on-hover").style.color = "black";
-}
-
-function bigImg1() {
-  document.getElementById("on-hover-course").style.color = "white";
-}
-
-function normalImg1() {
-    document.getElementById("on-hover-course").style.color = "black";
-}
-
-</script>
 
 </html>
