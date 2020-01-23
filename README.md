@@ -1,6 +1,3 @@
-
-<title>ENJOHE Engineering Jobs In Healthcare</title>
-
 <img src="logo2.png" width="250" height="50" alt=""/> 
 		
 <div class="font1">
@@ -10,9 +7,10 @@
 
 <div align="center">
 <div style="width: 700px; text-align:justify;">
-		<p><span> <b> Background: </b> Engineers are in high demand in healthcare, but most engineers do not have sufficient knowledge to serve in healthcare, because most engineering curricula do not cover healthcare, except Biomedical Engineering. However, besides Biomedical Engineering, healthcare industry is in need of engineers in almost all the other engineering disciplines, particularly Chemical, Computer, Electrical, Environmental, Industrial, Information, Materials, Mechanical, Software, and Systems Engineering. The <b> Healthcare Engineering Short Courses </b> is designed to bridge the gap.</span></p>
+<b> Background: </b> Engineers are in high demand in healthcare, but most engineers do not have sufficient knowledge to serve in healthcare, because most engineering curricula do not cover healthcare, except Biomedical Engineering. However, besides Biomedical Engineering, healthcare industry is in need of engineers in almost all the other engineering disciplines, particularly Chemical, Computer, Electrical, Environmental, Industrial, Information, Materials, Mechanical, Software, and Systems Engineering. The <b> Healthcare Engineering Short Courses </b> is designed to bridge the gap.
 	
-    	<p><span> <b>Goal:</b> The goal of Healthcare Engineering Short Courses (HESC) is <b> to prepare course takers for engineering jobs in healthcare. </b> </span></p></div>
+ <b>Goal:</b> The goal of Healthcare Engineering Short Courses (HESC) is <b> to prepare course takers for engineering jobs in healthcare. </b>
+ </div>
 
 
 <div style="width: 700px; text-align:justify;">
