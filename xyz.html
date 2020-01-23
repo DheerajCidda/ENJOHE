@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <title>How to Integrate Google “No CAPTCHA reCAPTCHA” on Your Website</title>
+     <!--js-->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    
+      </head>
+ 
+  <body>
+ 
+    <form action="xyz.php" method="post">
+ 
+      <label for="name">Name:</label>
+      <input name="name" required><br />
+ 
+      <label for="email">Email:</label>
+      <input name="email" type="email" required><br />
+ 
+      <div class="g-recaptcha" data-sitekey="6LfKAJcUAAAAAM--m76LCYWbSEV4OSh4yDFwZU8d" required></div>
+ 
+      <button type="submit">Submit</button>
+ 
+    </form>
+ 
+   
+ 
+  </body>
+</html>
+
