@@ -1,9 +1,3 @@
-
-
-
-
-
-<!doctype html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -140,32 +134,6 @@
 </div>
 	
     
-    
-  <footer>
-		<div align="center" class="font1"> 
-           <div style="padding-top:10px; display:inline-flex; ">
-            <div style="padding-left: 5px; width:120px">
-                <a href="index.html" class="bottombut">Home</a>
-            </div>
-            <div style="padding-left: 5px; display:block; width:120px; text-align:left">
-                <div> <a class="bottombut" href="search_job.php">Job Seeker</a></div>
-                <div style="padding-top:8px"><a href="search_job.php" style=" text-decoration: none; color:black; " >Find a Job</a></div>
-                <div style="padding-top:8px"><a href="submit_info.php" style=" text-decoration: none; color:black; padding-top:5px" >Submit My <br> Qualifications</a></div>
-            </div>
-            <div style="padding-left:5px; display:block; width:120px; text-align:left">
-                <a class="bottombut" href="postjob.php">Employer</a>
-                <div style="padding-top:8px"><a href="postjob.php" style="text-decoration: none; color:black;  padding-top:5px">Post Job</a></div>
-                <div style="padding-top:8px"><a href="register.php" style="text-decoration: none; color:black;padding-top:5px ">Sign Up | Login</a> </div>
-                <div style="padding-top:8px"><a href="find_seekers.php" style="text-decoration: none; color:black;padding-top:5px ">Find Candidates</a></div>
-            </div>
-
-        </div>
-       </div>
-		<p ><br></p>
-    <div align="center">
-     <img  src="footerlog.png" width="200" height="40" alt="">
-    </div>
-</footer>
 </body>
 
 <script>
