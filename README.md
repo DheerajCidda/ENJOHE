@@ -1,16 +1,17 @@
 <img src="logo2.png" width="250" height="50" alt=""/> 
 		
 <div class="font1">
+	
 <div style=" padding-top: 10px;">
-	<h3 style="padding-top: 20px;" ><span class="font1">Healthcare Engineering Short Courses (HESC)</span></h3>	
+<h3 ><span class="font1">Healthcare Engineering Short Courses (HESC)</span></h3>	
 </div>
 
-<div align="center">
+<div>
+	
 <div>
 <b> Background: </b> Engineers are in high demand in healthcare, but most engineers do not have sufficient knowledge to serve in healthcare, because most engineering curricula do not cover healthcare, except Biomedical Engineering. However, besides Biomedical Engineering, healthcare industry is in need of engineers in almost all the other engineering disciplines, particularly Chemical, Computer, Electrical, Environmental, Industrial, Information, Materials, Mechanical, Software, and Systems Engineering. The <b> Healthcare Engineering Short Courses </b> is designed to bridge the gap.
 	
- <b>Goal:</b> The goal of Healthcare Engineering Short Courses (HESC) is <b> to prepare course takers for engineering jobs in healthcare. </b>
- </div>
+ <b>Goal:</b> The goal of Healthcare Engineering Short Courses (HESC) is <b> to prepare course takers for engineering jobs in healthcare. </b></div>
 
 
 <div >
@@ -21,13 +22,11 @@
 <li>Course taker determines the course topic, objective(s), and scope based on his/her own background and interest, as well as current trends of healthcare engineering/technology and needs of employers.</li>
 <li>Upon completion of the course, course taker is uniquely qualified and becomes an excellent fit for particular target jobs. </li>
  <li>Course taker can tailor the short course scope to exactly fit a job description; then start and finish the course before the application deadline. </li>
-</ul>  
-    	
+</ul>     	
 </div>
 
 <div >
 <b>Rationale: </b>Development of courses in healthcare engineering is very challenging due to the following:
-
  <ul>
 <li>Since healthcare engineering is a rapidly progressing field, it is very difficult to offer courses that guarantee to cover updated knowledge on cutting-edge topics. </li>
  <li>Since healthcare engineering is an immensely broad field, it is very difficult to offer courses that guarantee to cover all important topics of current interest to the healthcare industry. </li>
@@ -66,7 +65,6 @@ We address the above issues by developing a short course format that allows each
            <li>A certificate is issued to student stipulating passing the course of a certain topic (e.g., <i> Artificial Intelligence for Medical Devices</i>) at a certain date. </li>
            <li>Course of the same topic may be repeated if significant advances in the field have been demonstrated by the new papers published, true for most of the topics in Healthcare Engineering. Procedure starts from step 1.</li>
 </ol>  
+</div>
+</div>
     	
-
-
-</html>
