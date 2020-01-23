@@ -6,24 +6,24 @@
 </div>
 
 <div align="center">
-<div style="width: 700px; text-align:justify;">
+<div>
 <b> Background: </b> Engineers are in high demand in healthcare, but most engineers do not have sufficient knowledge to serve in healthcare, because most engineering curricula do not cover healthcare, except Biomedical Engineering. However, besides Biomedical Engineering, healthcare industry is in need of engineers in almost all the other engineering disciplines, particularly Chemical, Computer, Electrical, Environmental, Industrial, Information, Materials, Mechanical, Software, and Systems Engineering. The <b> Healthcare Engineering Short Courses </b> is designed to bridge the gap.
 	
  <b>Goal:</b> The goal of Healthcare Engineering Short Courses (HESC) is <b> to prepare course takers for engineering jobs in healthcare. </b>
  </div>
 
 
-<div style="width: 700px; text-align:justify;">
-		<p><span> <b>Objectives: </b>This short course program is designed to achieve the following: </span></p>
+<div >
+<b>Objectives: </b>This short course program is designed to achieve the following: 
 
-        <ul>
-           <li>Course taker learns only cutting-edge engineering/technology knowledge that the healthcare industry employers immediately need.</li>
-           <li>Course taker determines the course topic, objective(s), and scope based on his/her own background and interest, as well as current trends of healthcare engineering/technology and needs of employers.</li>
-           <li>Upon completion of the course, course taker is uniquely qualified and becomes an excellent fit for particular target jobs. </li>
-           <li>Course taker can tailor the short course scope to exactly fit a job description; then start and finish the course before the application deadline. </li>
+<ul>
+<li>Course taker learns only cutting-edge engineering/technology knowledge that the healthcare industry employers immediately need.</li>
+<li>Course taker determines the course topic, objective(s), and scope based on his/her own background and interest, as well as current trends of healthcare engineering/technology and needs of employers.</li>
+<li>Upon completion of the course, course taker is uniquely qualified and becomes an excellent fit for particular target jobs. </li>
+ <li>Course taker can tailor the short course scope to exactly fit a job description; then start and finish the course before the application deadline. </li>
 </ul>  
     	
-        </div>
+</div>
 
 <div style="width: 700px; text-align:justify;">
 		<p><span> <b>Rationale: </b>Development of courses in healthcare engineering is very challenging due to the following: </span></p>
